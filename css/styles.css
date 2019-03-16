@@ -1,0 +1,10 @@
+/* GLOBAL */
+body {
+    background-color: #b3daff;
+    color: #ddd;
+}
+
+.jumbotron {
+    background-image: url(../img/jumbotron-practice.jpg);
+    height: 700px;
+}
